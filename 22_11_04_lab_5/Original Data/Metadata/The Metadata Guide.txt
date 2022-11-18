@@ -1,0 +1,11 @@
+Plik drinks.csv jest tabelarycznym zestawieniem badań społecznych na temat
+spożycia alkoholu w 2010 roku przez obywateli państw z całego świata.
+
+W pierwszej kolumnie znajdują się nazwy krajów, uwzględnionych w raporcie WHO.
+W drugiej kolumnie - ilość puszek piwa na osobę
+W trzeciej kolumnie - ilość butelek napoju spirytusowego na osobę
+W czwartej kolumnie - ilość butelek wina na osobę
+W piątej kolumnie - całkowita ilość czystego alkoholu na osobę
+
+Wartość w kolumnie 1 jest typu string.
+Wartości w kolumnach 2-5 są w typie integer lub float.
